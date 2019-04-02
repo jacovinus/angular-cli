@@ -42,6 +42,22 @@
     tslib "^1.9.0"
     yargs "9.0.1"
 
+"@angular/compiler-cli@github:angular/compiler-cli-builds#93740aa62e1237518145cfe0bbd81fb28bea0a57":
+  version "8.0.0-beta.10"
+  resolved "https://codeload.github.com/angular/compiler-cli-builds/tar.gz/93740aa62e1237518145cfe0bbd81fb28bea0a57"
+  dependencies:
+    canonical-path "1.0.0"
+    chokidar "^2.1.1"
+    convert-source-map "^1.5.1"
+    dependency-graph "^0.7.2"
+    magic-string "^0.25.0"
+    minimist "^1.2.0"
+    reflect-metadata "^0.1.2"
+    shelljs "^0.8.1"
+    source-map "^0.6.1"
+    tslib "^1.9.0"
+    yargs "9.0.1"
+
 "@angular/compiler@^8.0.0-beta.10":
   version "8.0.0-beta.10"
   resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-8.0.0-beta.10.tgz#58867d30c17f2265ff25c1bffbb9e8c38d88684a"
