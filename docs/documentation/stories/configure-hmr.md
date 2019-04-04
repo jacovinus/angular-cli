@@ -1,4 +1,4 @@
-**Documentation below is deprecated and we no longer accept PRs to improve this.**.
+**HMR is a WebPack feature that is not officially supported by Angular. This page is not being maintained, and may be incorrect or out of date. **.
 
 # Configure Hot Module Replacement
 
